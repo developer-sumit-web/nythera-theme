@@ -33,35 +33,35 @@ This theme has been tested with:
 
 ### HTML
 
-![HTML Preview]()
+![HTML Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/html.png)
 
 ### CSS
 
-![CSS Preview]()
+![CSS Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/css.png)
 
 ### JavaScript
 
-![JavaScript Preview]()
+![JavaScript Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/javascript.png)
 
 ### Java
 
-![Java Preview]()
+![Java Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/java.png)
 
 ### C
 
-![C Preview]()
+![C Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/c.png)
 
 ### C++
 
-![C++ Preview]()
+![C++ Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/c-cpp.png)
 
 ### Python
 
-![Python Preview]()
+![Python Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/python.png)
 
 ### JSON
 
-![JSON Preview]()
+![JSON Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/json.png)
 
 ## Credits
 
