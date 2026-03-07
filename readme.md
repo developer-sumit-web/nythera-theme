@@ -34,6 +34,7 @@ This theme has been tested with:
 - C++
 - Python
 - JSON
+- Markdown
 
 ## Preview
 
