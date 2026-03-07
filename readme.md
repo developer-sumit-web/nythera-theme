@@ -1,5 +1,7 @@
 # Nythera
 
+![Nythera Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/preview.png)
+
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/sumit-dev.nythera)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/sumit-dev.nythera)
 ![License](https://img.shields.io/badge/license-MIT-blue)
