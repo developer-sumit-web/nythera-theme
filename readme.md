@@ -35,7 +35,15 @@ This theme has been tested with:
 
 ## Preview
 
-### I have used **fira code** font
+> **Note:** Screenshots were captured using the **Fira Code** font.
+
+### JavaScript
+
+![JavaScript Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/javascript.png)
+
+### Python
+
+![Python Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/python.png)
 
 ### HTML
 
@@ -44,10 +52,6 @@ This theme has been tested with:
 ### CSS
 
 ![CSS Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/css.png)
-
-### JavaScript
-
-![JavaScript Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/javascript.png)
 
 ### Java
 
@@ -61,13 +65,13 @@ This theme has been tested with:
 
 ![C++ Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/c-cpp.png)
 
-### Python
-
-![Python Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/python.png)
-
 ### JSON
 
 ![JSON Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/json.png)
+
+### Markdown
+
+![Markdown Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/markdown.png)
 
 ## Credits
 
