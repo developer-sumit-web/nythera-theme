@@ -31,6 +31,8 @@ This theme has been tested with:
 
 ## Preview
 
+### I have used **fira code** font
+
 ### HTML
 
 ![HTML Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/html.png)
