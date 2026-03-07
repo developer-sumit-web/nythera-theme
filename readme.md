@@ -1,5 +1,9 @@
 # Nythera
 
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/sumit-dev.nythera)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/sumit-dev.nythera)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 **Nythera** is a modern dark theme for Visual Studio Code designed to provide a comfortable and visually balanced coding experience.
 
 The syntax highlighting style is **inspired by the Horizon theme**, while the colors themselves were **carefully selected and customized independently** to create a unique and refined appearance.
