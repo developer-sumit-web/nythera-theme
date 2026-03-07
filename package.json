@@ -1,0 +1,40 @@
+{
+  "name": "nythera",
+  "displayName": "Nythera",
+  "description": "Nythera is a minimalist navy developer theme for Visual Studio Code inspired by the Base64 Neovim theme and refined with a custom color palette.",
+  "version": "0.2.0",
+  "publisher": "sumit-dev",
+  "icon": "nythera.png",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/developer-sumit-web/nythera-theme"
+  },
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "dark theme",
+    "theme",
+    "vscode theme",
+    "color-theme",
+    "developer theme",
+    "hacker theme",
+    "navy theme",
+    "nythera",
+    "nythera theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nythera",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nythera-color-theme.json"
+      }
+    ]
+  }
+}
