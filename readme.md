@@ -17,10 +17,10 @@ This theme focuses on clear syntax distinction, strong readability, and a calm d
 
 ## Features
 
-- Carefully balanced dark background to reduce eye strain
+- Carefully balanced dark color palette
 - Clear and readable syntax highlighting
 - Consistent color palette across multiple programming languages
-- Designed for comfortable long coding sessions
+- Designed with readability and visual clarity in mind
 
 ## Supported Languages
 
@@ -40,48 +40,34 @@ This theme has been tested with:
 
 > **Note:** Screenshots were captured using the **Fira Code** font.
 
-### Main Preview
-
-![Nythera Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/preview.png)
-
 <details>
-
 <summary>View language previews</summary>
 
 ### JavaScript
-
 ![JavaScript Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/javascript.png)
 
 ### Python
-
 ![Python Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/python.png)
 
 ### HTML
-
 ![HTML Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/html.png)
 
 ### CSS
-
 ![CSS Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/css.png)
 
 ### Java
-
 ![Java Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/java.png)
 
 ### C
-
 ![C Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/c.png)
 
 ### C++
-
 ![C++ Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/c-cpp.png)
 
 ### JSON
-
 ![JSON Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/json.png)
 
 ### Markdown
-
 ![Markdown Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/markdown.png)
 
 </details>
