@@ -40,6 +40,14 @@ This theme has been tested with:
 
 > **Note:** Screenshots were captured using the **Fira Code** font.
 
+### Main Preview
+
+![Nythera Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/preview.png)
+
+<details>
+
+<summary>View language previews</summary>
+
 ### JavaScript
 
 ![JavaScript Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/javascript.png)
@@ -75,6 +83,68 @@ This theme has been tested with:
 ### Markdown
 
 ![Markdown Preview](https://raw.githubusercontent.com/developer-sumit-web/nythera-theme/main/screenshots/markdown.png)
+
+</details>
+
+## My VS Code Configuration
+
+The following configuration reflects the setup used while developing and capturing the screenshots for the **Nythera** theme.
+
+This setup focuses on a minimal interface and smooth editor behavior.
+
+> **Note:**
+> The screenshots and configuration were used on a **1920×1200 OLED display**.
+> Visual appearance can vary depending on screen size, resolution, panel type, and personal preferences.
+> You may want to adjust these settings to better match your own display and workflow.
+
+<details>
+<summary>View VS Code configuration</summary>
+
+```json
+{
+  "terminal.integrated.stickyScroll.enabled": false,
+  "workbench.startupEditor": "none",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.list.smoothScrolling": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.fontFamily": "'Fira Code',CommitMono,Iosevka,'JetBrains Mono','JetBrainsMono Nerd Font','cascadia code', 'VictorMono Nerd Font', Consolas, 'Courier New', monospace",
+  "workbench.fontAliasing": "antialiased",
+  "explorer.decorations.badges": false,
+  "editor.fontWeight": "450",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.smoothScrolling": true,
+  "editor.minimap.autohide": "mouseover",
+  "editor.lineHeight": 23,
+  "editor.fontSize": 13,
+  "editor.cursorWidth": 3,
+  "editor.cursorStyle": "block",
+  "editor.letterSpacing": 0.5,
+  "editor.padding.top": 15,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 6,
+  "editor.guides.indentation": false,
+  "workbench.activityBar.location": "top",
+  "workbench.sideBar.location": "right",
+  "workbench.statusBar.visible": false,
+  "workbench.panel.showLabels": false,
+  "workbench.iconTheme": "gruvbox-icon-theme",
+  "window.zoomLevel": -0.1,
+  "window.menuBarVisibility": "toggle",
+  "window.commandCenter": false,
+  "window.customTitleBarVisibility": "windowed",
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.lineHeight": 1.3,
+  "terminal.integrated.fontFamily": "'commitmono'",
+  "terminal.integrated.fontLigatures.enabled": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyleInactive": "underline",
+  "terminal.integrated.smoothScrolling": true,
+  "workbench.colorTheme": "Nythera"
+}
+```
+
+</details>
+
 
 ## Credits
 
